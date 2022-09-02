@@ -70,7 +70,7 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="static/arunachal pradesh.jpg">
+    <a target="_blank" href="/sdp3/arunachal.jsp">
       <img src="static/arunachal pradesh.jpg" alt="ap2" width="600" height="400">
     </a>
     <div class="desc">ARUNACHAL PRADESH</div>

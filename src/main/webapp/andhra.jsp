@@ -31,7 +31,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#food">Food</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#festivals">Festivals</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#places to visit">Places to visit</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#music">Music</a></li>
+                   
                 </ul>
             </div>
         </nav>
@@ -97,127 +97,93 @@ Telugu literature is highly influenced by Sanskrit literature and Hindu scriptur
                 </div>
             </section>
             <hr class="m-0" />
-            <!-- Education-->
-            <section class="resume-section" id="education">
+            <section class="resume-section" id="dance">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Education</h2>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">University of Colorado Boulder</h3>
-                            <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Computer Science - Web Development Track</div>
-                            <p>GPA: 3.23</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">James Buchanan High School</h3>
-                            <div class="subheading mb-3">Technology Magnet Program</div>
-                            <p>GPA: 3.56</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
-                    </div>
+                   <h2 class="mb-0">
+        
+                    <span class="text-primary">DANCE</span></h2>
+                    <br>
+                    <br>
+                    <p class="lead mb-5">Jayapa Senani (Jayapa Nayudu) was the first known author to write about the dance forms prevalent in Andhra Pradesh.
+                    [4] Both Desi and Margi forms of dance have been included in his Sanskrit treatise Nritya Ratnavali, 
+                    which contains eight chapters. Folk dance forms like Perani, Prenkhana, Suddha Nartana, Carcari, Rasaka,
+                     Danda Rasaka, Shiva Priya, Kanduka Nartana, Bhandika Nrityam, Carana Nrityam, Chindu, Gondali and Kolatam
+                      are described. In the first chapter the author discusses the differences between Marga and Desi, Tandava 
+                     and Lasya, Natya and Nritta. In the second and third chapters, he deals with Angi-Kabhinaya, Caris, Sthanakas
+                      and Mandalas. In the fourth chapter, Karnas, Angaharas and Recakas are described. In the following chapters,
+                       he describes local dance forms, e.g., Desi Nritya. In the last chapter, he deals with the art and practice 
+                       of dance.
+Classical dance in Andhra can be performed by both men and women; nowadays,
+ women tend to learn it more often. Traditionally it was done by men and female temple dancers. 
+ Women did not dance it in public, and men played female parts in Kuchipudi ballets. As time went by, women began
+  to learn it as an art as well. This started when women danced in kings' courts. Kuchipudi is the best-known classical 
+  dance form of Andhra Pradesh. The various dance forms that existed through the state's history are Chenchu Bhagotam, 
+  Kuchipudi, Bhamakalapam, Burrakatha, Veeranatyam, Butta bommalu, Dappu, Tappeta Gullu, Dhimsa, and Kolaatam.</p>
+                            
+                       <center> <img src="static/ap dance.jpg" alt="ap" width="400" height="300"> </center>
+                       
                 </div>
             </section>
-            <hr class="m-0" />
-            <!-- Skills-->
-            <section class="resume-section" id="skills">
+           <hr class="m-0" />
+            <section class="resume-section" id="food">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Skills</h2>
-                    <div class="subheading mb-3">Programming Languages & Tools</div>
-                    <ul class="list-inline dev-icons">
-                        <li class="list-inline-item"><i class="fab fa-html5"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-angular"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-sass"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-less"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-npm"></i></li>
-                    </ul>
-                    <div class="subheading mb-3">Workflow</div>
-                    <ul class="fa-ul mb-0">
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Mobile-First, Responsive Design
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Browser Testing & Debugging
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Functional Teams
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Agile Development & Scrum
-                        </li>
-                    </ul>
+                   <h2 class="mb-0">
+        
+                    <span class="text-primary">FOOD</span></h2>
+                    <br>
+                    <br>
+                    <p class="lead mb-5">From Hyderabadi Biriyani to Gangura Pachadi, Andhra cuisine is renowned for their fiery
+                     taste and spicy flavours. Plenty of red chilli is cultivated in the lands of Andhra Pradesh and Telengana. 
+                     Naturally, the spices have dominance in the recipes of the local food. If you are new to the world of chillis
+                      and spices, then please do sit down to eat with a bowl of jaggerry or glass of butter-milk to soothe your 
+                      tongue every now and then. Else, it can get quite torturous.</p>
+                            
+                       <center> <img src="static/ap food.jpg" alt="ap" width="400" height="300"> </center>
+                       <br>
+                       <center> <img src="static/ap food2.jpg" alt="ap" width="400" height="300"> </center>
+                       
                 </div>
             </section>
-            <hr class="m-0" />
-            <!-- Interests-->
-            <section class="resume-section" id="interests">
+            </section>
+           <hr class="m-0" />
+            <section class="resume-section" id="festivals">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                   <h2 class="mb-0">
+        
+                    <span class="text-primary">FESTIVALS</span></h2>
+                    <br>
+                    <br>
+                    <p class="lead mb-5">Andhra Pradesh is a land of rich cultural heritage which beautifully reflects in its festivals
+                     and other attractions. Festivals are intricately woven into the culture of the state and are celebrated with great
+                      enthusiasm. Majority of the festivals celebrated here are religious whereas others are organized by the Government
+                       of Andhra Pradesh for tourism purposes.</p>
+                            
+                       <center> <img src="static/ap festival.jpg" alt="ap" width="400" height="300"> </center>
+                       <br>
+                       <center> <img src="static/ap festival 2.jpg" alt="ap" width="400" height="300"> </center>
+                       
                 </div>
             </section>
-            <hr class="m-0" />
-            <!-- Awards-->
-            <section class="resume-section" id="awards">
+          
+           <hr class="m-0" />
+            <section class="resume-section" id="places to visit">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Awards & Certifications</h2>
-                    <ul class="fa-ul mb-0">
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Google Analytics Certified Developer
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Mobile Web Specialist - Google Certification
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2009
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            2
-                            <sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            3
-                            <sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005
-                        </li>
-                    </ul>
+                   <h2 class="mb-0">
+        
+                    <span class="text-primary">PLACES TO VISIT</span></h2>
+                    <br>
+                    <br>
+                    <p class="lead mb-5">Andhra Pradesh is a land of rich cultural heritage which beautifully reflects in its festivals
+                     and other attractions. Festivals are intricately woven into the culture of the state and are celebrated with great
+                      enthusiasm. Majority of the festivals celebrated here are religious whereas others are organized by the Government
+                       of Andhra Pradesh for tourism purposes.</p>
+                            
+                       <center> <img src="static/ap festival.jpg" alt="ap" width="400" height="300"> </center>
+                       <br>
+                       <center> <img src="static/ap festival 2.jpg" alt="ap" width="400" height="300"> </center>
+                       
                 </div>
-            </section>
-        </div>
+            </section>        </div>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
